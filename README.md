@@ -1,5 +1,6 @@
 # Google Capstone Project: Cyclistic bike-share analysis case study (drivvy tripdata)
 ![](bi_report.png)
+<a href="_images/bi_report.png">
 
 
 ## Introduction:
