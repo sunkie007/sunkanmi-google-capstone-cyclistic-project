@@ -16,11 +16,11 @@ Data wrangling is an essential step in the data analysis process because the qua
 The dataset was sourced here. It consist of rider’s data for 12 months from January — December 2022. I will be doing a preliminary check on the dataset for proper understanding and data wrangling will be deployed so as to make sense of the analysis. Microsoft SQL Server Management studio will be used for analysis of the data and visualization will be presented using Power BI.
 
 ## Other Info: 
-The tecnhical tools I used during this project are SQL and PowerBI.
-To see the completed project, where I shared the steps of the analysis and insights I derived, please see here: Medium Article
-To view the SQL queries, click here for the pre-cleaning exploration portion & here for the cleaning/analysis portion.
-To view the data visualizations, visit my Tableau Public Cyclistic Project Page here: Tableau
-To view the raw dataset used in this case, go here: Cyclistic Bike Data
+1.  The tecnhical tools I used during this project are SQL and PowerBI.
+2.  To see the completed project, where I shared the steps of the analysis and insights I derived, please see here: [Medium Article](https://medium.com/@sunkie007/google-capstone-project-cyclistic-bike-share-analysis-case-study-drivvy-tripdata-fda061d0d98f)
+3.  To view the SQL queries, click here for the pre-cleaning exploration portion & here for the cleaning/analysis portion.
+4.  To view the data visualizations, visit my Tableau Public Cyclistic Project Page here: Tableau
+5.  To view the raw dataset used in this case, go here: Cyclistic Bike Data
 
 
 
