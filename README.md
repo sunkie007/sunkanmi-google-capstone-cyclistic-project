@@ -1,7 +1,5 @@
 # Google Capstone Project: Cyclistic bike-share analysis case study (drivvy tripdata)
 ![](bi_report.png)
-<a href="_images/bi_report.png">
-
 
 ## Introduction:
 I recently completed the Google Data Analytics Specialization course and earned my Professional Certificate, and I have been tasked to complete a Capstone Project highlighting the technical skills I learned during the course. The case I chose to analyze for my Capstone Project is the Cyclistic bike-share case study- data was provided by drivvy tripdata.
