@@ -18,7 +18,8 @@ The dataset was sourced here. It consist of rider’s data for 12 months from Ja
 1.  The tecnhical tools I used during this project are SQL and PowerBI.
 2.  To see the completed project, where I shared the steps of the analysis and insights I derived, please see here: [Medium Article](https://medium.com/@sunkie007/google-capstone-project-cyclistic-bike-share-analysis-case-study-drivvy-tripdata-fda061d0d98f)
 3.  To view the SQL queries, click [here](https://github.com/sunkie007/sunkanmi-google-capstone-cyclistic-project/blob/main/cleaning.sql) for the data cleaning & [here](https://github.com/sunkie007/sunkanmi-google-capstone-cyclistic-project/blob/main/data%20analysis%20and%20insight.sql) for the analysis and insights.
-4.  To view the raw dataset used in this case, go [here](https://divvy-tripdata.s3.amazonaws.com/index.html): **Divvy Trip-Data** Cyclistic Bike-share Data.
+4.  To View the PowerBI report please click [here](https://app.powerbi.com/view?r=eyJrIjoiYzIxYThmMmEtOGM3Ny00NTY4LTk4ZDYtNGJhY2Q5NzM0ZDAyIiwidCI6IjM0N2I3NmJiLWRmZDAtNGExMy1hYTk1LTg2OTc4ZGI4ZDNmNiJ9)
+5.  To view the raw dataset used in this case, go [here](https://divvy-tripdata.s3.amazonaws.com/index.html): **Divvy Trip-Data** Cyclistic Bike-share Data.
 
 
 
